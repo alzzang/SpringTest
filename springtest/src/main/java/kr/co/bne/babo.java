@@ -7,4 +7,7 @@ public class babo {
 	public void abc(){
 		
 	}
+	public void bbb(){
+		
+	}
 }
