@@ -4,4 +4,7 @@ public class babo {
 	public babo() {
 		
 	}
+	public void bbb(){
+		
+	}
 }
