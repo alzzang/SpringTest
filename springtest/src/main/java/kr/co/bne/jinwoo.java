@@ -12,6 +12,7 @@ public class jinwoo {
 	{
 		System.out.println("남회꺼");
 		System.out.println("충돌체크");
+		System.out.println("hello");
 	}
 	
 
