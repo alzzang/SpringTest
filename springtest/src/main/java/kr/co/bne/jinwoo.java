@@ -11,6 +11,7 @@ public class jinwoo {
 	public jinwoo()
 	{
 		System.out.println("남회꺼");
+		System.out.println("충돌체크");
 	}
 	
 //>>>>>>> branch 'master' of https://github.com/alzzang/SpringTest.git
