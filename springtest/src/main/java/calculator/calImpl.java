@@ -1,7 +1,6 @@
 package calculator;
 
 
-
 public class calImpl implements cal {
 
 	@Override
