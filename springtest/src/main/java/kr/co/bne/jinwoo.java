@@ -16,6 +16,8 @@ public class jinwoo {
 		System.out.println("남회2");
 		System.out.println("배진우");
 	}
-	
+	public void b(){
+		
+	}
 
 }
