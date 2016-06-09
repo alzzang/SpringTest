@@ -24,6 +24,7 @@ public class calImpl implements cal {
 
 	@Override
 	public double div(double num1, double num2) {
+		System.out.println("이동우");
 		return num1 / num2;
 	}
 
