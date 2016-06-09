@@ -4,8 +4,8 @@ public class calImpl implements cal {
 
 	@Override
 	public double plus(double num1, double num2) {
-		// TODO Auto-generated method stub
-		return 0;
+		double sum = num1+num2;
+		return sum;
 	}
 
 	@Override
