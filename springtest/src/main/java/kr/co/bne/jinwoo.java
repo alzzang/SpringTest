@@ -14,6 +14,7 @@ public class jinwoo {
 		System.out.println("충돌체크");
 		System.out.println("hello");
 		System.out.println("남회2");
+		System.out.println("배진우");
 	}
 	
 
