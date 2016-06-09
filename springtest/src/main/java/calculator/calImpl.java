@@ -34,8 +34,9 @@ public class calImpl implements cal {
 
 	@Override
 	public double sqrt(double num1) {
-		// TODO Auto-generated method stub
-		return 0;
+		double result = Math.sqrt(num1);
+
+		return result;
 	}
 
 
