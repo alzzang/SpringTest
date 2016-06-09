@@ -17,8 +17,8 @@ public class calImpl implements cal {
 
 	@Override
 	public double mul(double num1, double num2) {
-		// TODO Auto-generated method stub
-		return 0;
+		System.out.println("이태우");
+		return num1*num2;
 	}
 
 	@Override
