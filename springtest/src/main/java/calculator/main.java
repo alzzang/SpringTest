@@ -5,8 +5,10 @@ import java.util.Scanner;
 public class main {
 
 	public static void main(String[] args) {
-		cal cal= new calImpl();
-		System.out.println(cal.mul(3, 2));
+		cal cal = new calImpl();
+		System.out.println(cal.mul(2,3));
+		cal c= new calImpl();
+		System.out.println(c.mul(3, 2));
 
 		
 
