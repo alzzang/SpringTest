@@ -11,7 +11,7 @@ public class calImpl implements cal {
 	@Override
 	public double minus(double num1, double num2) {
 		// TODO Auto-generated method stub
-		return 0;
+		return num1-num2;
 	}
 
 	@Override
