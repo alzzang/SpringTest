@@ -19,5 +19,7 @@ public class jinwoo {
 	public void b(){
 		
 	}
-
+	public void a(){
+		
+	}
 }
