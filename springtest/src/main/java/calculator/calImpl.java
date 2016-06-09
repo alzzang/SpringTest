@@ -1,5 +1,7 @@
 package calculator;
 
+
+
 public class calImpl implements cal {
 
 	@Override
@@ -22,8 +24,8 @@ public class calImpl implements cal {
 
 	@Override
 	public double div(double num1, double num2) {
-		// TODO Auto-generated method stub
-		return 0;
+
+		return num1 / num2;
 	}
 
 	@Override
@@ -34,8 +36,7 @@ public class calImpl implements cal {
 
 	@Override
 	public double sqrt(double num1) {
-		// TODO Auto-generated method stub
-		return 0;
+		return Math.sqrt(num1);
 	}
 
 
