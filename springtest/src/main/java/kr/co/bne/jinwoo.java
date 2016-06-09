@@ -17,5 +17,7 @@ public class jinwoo {
 		System.out.println("배진우");
 	}
 	
-
+	public void a(){
+		
+	}
 }
