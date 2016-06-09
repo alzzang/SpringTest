@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class main {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 
 		Scanner sc = new Scanner(System.in);
 		
@@ -14,6 +15,8 @@ public class main {
 		calImpl c = new calImpl();
 		
 		System.out.println("결과: " + c.sqrt(d));
+=======
+>>>>>>> branch 'master' of https://github.com/alzzang/SpringTest.git
 		
 	}
 

@@ -36,7 +36,10 @@ public class calImpl implements cal {
 
 	@Override
 	public double sqrt(double num1) {
-		return Math.sqrt(num1);
+		
+		double result = Math.sqrt(num1);
+
+		return result;
 	}
 
 
