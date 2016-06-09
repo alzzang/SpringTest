@@ -24,8 +24,8 @@ public class calImpl implements cal {
 
 	@Override
 	public double div(double num1, double num2) {
-
-		return num1 / num2;
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
 	@Override
@@ -35,10 +35,8 @@ public class calImpl implements cal {
 	}
 
 	@Override
-	public double sqrt(double num1) {
-		
+	public double sqrt(double num1) {		
 		double result = Math.sqrt(num1);
-
 		return result;
 	}
 
