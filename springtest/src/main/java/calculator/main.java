@@ -17,7 +17,7 @@ public class main {
 		System.out.println(cal.mul(3, 2));
 
 		
-
+		System.out.println(cal.plus(1, 2));
 	}
 
 }
