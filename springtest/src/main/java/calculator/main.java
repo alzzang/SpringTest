@@ -8,15 +8,6 @@ public class main {
 
 		// TODO Auto-generated method stub
 		cal cal = new calImpl();
-		
-		System.out.println(cal.minus(3, 1));
-
-		
-		System.out.println(cal.mul(2,3));
-		
-		System.out.println(cal.mul(3, 2));
-
-		
 		System.out.println(cal.plus(1, 2));
 	}
 
