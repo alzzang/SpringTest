@@ -5,8 +5,7 @@ public class calImpl implements cal {
 	
 	@Override
 	public double plus(double num1, double num2) {
-		double sum = num1+num2;
-		return sum;
+		return 0;
 	}
 
 	@Override
@@ -17,7 +16,7 @@ public class calImpl implements cal {
 
 	@Override
 	public double mul(double num1, double num2) {
-		return num1*num2;
+		return 0;
 	}
 
 	@Override
@@ -36,9 +35,7 @@ public class calImpl implements cal {
 
 	@Override
 	public double sqrt(double num1) {
-		double result = Math.sqrt(num1);
-
-		return result;
+		return 0;
 	}
 
 
