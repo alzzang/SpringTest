@@ -1,10 +1,12 @@
 package calculator;
 
-public class calImpl implements cal {
 
+public class calImpl implements cal {
+	
 	@Override
 	public double plus(double num1, double num2) {
 		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
@@ -29,7 +31,9 @@ public class calImpl implements cal {
 	@Override
 	public double pow(double num1, double num2) {
 		// TODO Auto-generated method stub
-		return 0;
+		double result=0;
+		result=Math.pow(num1,num2);
+		return result;
 	}
 
 	@Override
