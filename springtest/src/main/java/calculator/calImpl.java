@@ -10,7 +10,7 @@ public class calImpl implements cal {
 
 	@Override
 	public double minus(double num1, double num2) {
-		// TODO Auto-generated method stub
+		System.out.println("hello");
 		return 0;
 	}
 
