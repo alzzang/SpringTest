@@ -4,4 +4,7 @@ public class taewoo {
 	public void a(){
 		
 	}
+	public void b(){
+		
+	}
 }
